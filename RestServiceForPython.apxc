@@ -1,0 +1,8 @@
+@RestResource(urlMapping='/testRestServiceForPython/*')
+global class RestServiceForPython {
+    @HttpPost
+    global static void doPost(String name) {
+        system.debug('Name from Webservice '+name) ;
+        
+    }
+}
