@@ -16,4 +16,4 @@ run SalesforceRestAPI.py
 SalesforceRestAPI.py
 ----------------------------------
 
-It will connect the Salesforce Server and call the Sample Apex Rest service('testRestServiceForAWS/') and the service will log the passed name Salesfoce. 
+It will connect the Salesforce Server and call the Sample Apex Rest service('testRestServiceForPython/') and the service will log the passed name Salesfoce. 
